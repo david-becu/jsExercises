@@ -1,0 +1,4 @@
+// Générer l'ensemble des balises de cette page https://html5boilerplate.com/
+// (uniquement celles du body) en Javascript uniquement !
+// Balise et contenu, en gros une fois la page générée elle doit contenir
+// la meme chose que le site actuel

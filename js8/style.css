@@ -1,0 +1,29 @@
+/* js8 */
+
+* {
+  margin: 0%;
+  padding: 0%;
+  
+}
+
+.boite {
+position: relative;
+top: 300px;
+left: 50px;
+background-color: red;
+width: 100px;
+height: 100px;
+}
+
+.barre {
+position: relative;
+top: 200px;
+left: 300px;
+background-color: green;
+width: 20px;
+height: 300px;
+}
+
+#output {
+  font-family: Arial, Helvetica, sans-serif;
+  border: 1px solid black;
